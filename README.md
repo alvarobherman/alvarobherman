@@ -15,7 +15,6 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobherman&theme=buefy&hide=css,html)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarobherman&repo=alvbot&theme=buefy)
 ![](https://github-profile-trophy.vercel.app/?username=alvarobherman&row=2&column=3)
 
 # SOSMED ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="40px">
