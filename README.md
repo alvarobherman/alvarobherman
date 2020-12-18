@@ -16,10 +16,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobherman&theme=buefy&hide=css,html)
 ![](https://github-profile-trophy.vercel.app/?username=alvarobherman&row=2&column=3)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alvarobherman)](https://github.com/alvarobherman/alvbot)
 
 # SOSMED ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="40px">
 * Youtube : Alvaro Bherman
 * Instagram : Alvaro Bherman
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="900px">
-
