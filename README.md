@@ -22,5 +22,5 @@
 * Youtube : Alvaro Bherman
 * Instagram : Alvaro Bherman
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="500px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="900px">
 
