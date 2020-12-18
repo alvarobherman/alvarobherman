@@ -5,18 +5,18 @@
 </p>
 <br>
 <p align="center">
-<a href="#"><img title="alvbot" src="https://img.shields.io/badge/Alvaro%20Bherman-orange?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ALVARO BHERMAN" src="https://img.shields.io/badge/Alvaro%20Bherman-orange?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/alvarobherman"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ALVARO%20BHERMAN-green.svg?style=for-the-badge&logo=github%27"></a>
 </p>
 <p align="center">
 <a href="https://github.com/alvarobherman/alvbot/followers"><img title="Followers" src="https://img.shields.io/github/followers/alvarobherman?color=blue&style=flat-square"></a>
-<a href="https://github.com/alvarobherman/alvbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/A187ID/alvarobherman?color=red&style=flat-square"></a>
-<a href="https://github.com/alvarobherman/alvbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/alvarobherman/bot-whatsapp?color=red&style=flat-square"></a>
-<a href="https://github.com/alvarobherman/alvbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/alvarobherman/bot-whatsapp?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FA187ID%2FAR15BOT&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobherman&theme=buefy&hide=css,html)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarobherman&repo=whatsapp-bot&theme=buefy)
+![](https://github-profile-trophy.vercel.app/?username=alvarobherman&row=2&column=3)
 
 # SOSMED ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="40px">
 * Youtube : Alvaro Bherman
