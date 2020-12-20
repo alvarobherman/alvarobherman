@@ -22,4 +22,8 @@
 * Youtube : Alvaro Bherman
 * Instagram : Alvaro Bherman
 
+# DOANSI COK ! 
+* Saweria : https://saweria.co/alvarobherman
+* Tanpa Uang : https://exe.io/DonasiTanpaUang01
+
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="900px">
