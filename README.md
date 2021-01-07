@@ -22,7 +22,7 @@
 * Youtube : Alvaro Bherman
 * Instagram : Alvaro Bherman
 
-# DOANSI COK ! 
+# DOANSI SEKARANGG <img src="https://raw.githubusercontent.com/alvarobherman/alvbot/main/readme-tools/koin_emhas.gif" width="40px"> 
 * Saweria : https://saweria.co/alvarobherman
 * Tanpa Uang : https://exe.io/DonasiTanpaUang01
 
