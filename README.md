@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi >//<
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/alvarobherman/alvbot/main/NGAKAK_HYUNG/petrik.png" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/alvarobherman/alvbot/main/readme-tools/ptrk.jpg" width="230" height="230"/>
 </p>
 <br>
 <p align="center">
